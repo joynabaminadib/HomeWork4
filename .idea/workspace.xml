@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ea35597-604e-4443-b145-e18b660f9bb2" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/ebayMethods/target/" />
+    <ignored path="$PROJECT_DIR$/ebayTest/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/projectEbay$TestEbay.ic" NAME="TestEbay Coverage Results" MODIFIED="1546248979231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ebayMethods/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ebayTest/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ebayTest/src/main/java/search/SearchEbay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="58" column="12" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ebayTest/src/test/resources/ebayTestRunner" />
+        <option value="$PROJECT_DIR$/ebayTest/src/test/resources/Ebaytestrunner.xml" />
+        <option value="$PROJECT_DIR$/ebayTest/src/test/java/TestEbay.java" />
+        <option value="$PROJECT_DIR$/ebayMethods/src/main/java/base/RootEbay.java" />
+        <option value="$PROJECT_DIR$/ebayTest/src/main/java/search/SearchEbay.java" />
+        <option value="$PROJECT_DIR$/ebayMethods/pom.xml" />
+        <option value="$PROJECT_DIR$/ebayTest/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="projectEbay" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="projectEbay" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="78" />
+    <option name="y" value="21" />
+    <option name="width" value="1899" />
+    <option name="height" value="1008" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="projectEbay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectEbay" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projectEbay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectEbay" type="462c0819:PsiDirectoryNode" />
+              <item name="ebayTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projectEbay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectEbay" type="462c0819:PsiDirectoryNode" />
+              <item name="ebayTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projectEbay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectEbay" type="462c0819:PsiDirectoryNode" />
+              <item name="ebayTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projectEbay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectEbay" type="462c0819:PsiDirectoryNode" />
+              <item name="ebayTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projectEbay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectEbay" type="462c0819:PsiDirectoryNode" />
+              <item name="ebayTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projectEbay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectEbay" type="462c0819:PsiDirectoryNode" />
+              <item name="ebayTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projectEbay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectEbay" type="462c0819:PsiDirectoryNode" />
+              <item name="ebayTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projectEbay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectEbay" type="462c0819:PsiDirectoryNode" />
+              <item name="ebayTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projectEbay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546466823675" />
+    <property name="last_opened_file_path" value="C:/apache-maven-3.6.0/lib/sdk-1.0.snapshot.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.39655173" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/adibi/Desktop/nayna/projectEbay/ebayTest/src/test/resources/Ebaytestrunner.xml">
+    <configuration name="C:/Users/adibi/Desktop/nayna/projectEbay/ebayTest/src/test/resources/Ebaytestrunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ebayTest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/ebayTest/src/test/resources/Ebaytestrunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestEbay" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ebayTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestEbay" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestEbay.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ebayTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestEbay" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ebayTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/adibi/Desktop/nayna/projectEbay/ebayTest/src/test/resources/Ebaytestrunner.xml" />
+        <item itemvalue="TestNG.TestEbay.test1" />
+        <item itemvalue="TestNG.TestEbay" />
+        <item itemvalue="TestNG.&lt;default&gt;" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ea35597-604e-4443-b145-e18b660f9bb2" name="Default Changelist" comment="" />
+      <created>1546243278979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546243278979</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="C__Users_adibi_Desktop_nayna_projectEbay_ebayTest_src_test_resources_Ebaytestrunner_xml - 2019.01.02 at 02h 58m 30s.xml">
+      <configuration name="C:/Users/adibi/Desktop/nayna/projectEbay/ebayTest/src/test/resources/Ebaytestrunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_adibi_Desktop_nayna_projectEbay_ebayTest_src_test_resources_Ebaytestrunner_xml - 2019.01.02 at 03h 02m 40s.xml">
+      <configuration name="C:/Users/adibi/Desktop/nayna/projectEbay/ebayTest/src/test/resources/Ebaytestrunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_adibi_Desktop_nayna_projectEbay_ebayTest_src_test_resources_Ebaytestrunner_xml - 2019.01.02 at 03h 04m 59s.xml">
+      <configuration name="C:/Users/adibi/Desktop/nayna/projectEbay/ebayTest/src/test/resources/Ebaytestrunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_adibi_Desktop_nayna_projectEbay_ebayTest_src_test_resources_Ebaytestrunner_xml - 2019.01.02 at 03h 51m 21s.xml">
+      <configuration name="C:/Users/adibi/Desktop/nayna/projectEbay/ebayTest/src/test/resources/Ebaytestrunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_adibi_Desktop_nayna_projectEbay_ebayTest_src_test_resources_Ebaytestrunner_xml - 2019.01.02 at 03h 52m 26s.xml">
+      <configuration name="C:/Users/adibi/Desktop/nayna/projectEbay/ebayTest/src/test/resources/Ebaytestrunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_adibi_Desktop_nayna_projectEbay_ebayTest_src_test_resources_Ebaytestrunner_xml - 2019.01.02 at 04h 55m 24s.xml">
+      <configuration name="C:/Users/adibi/Desktop/nayna/projectEbay/ebayTest/src/test/resources/Ebaytestrunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_adibi_Desktop_nayna_projectEbay_ebayTest_src_test_resources_Ebaytestrunner_xml - 2019.01.02 at 06h 38m 03s.xml">
+      <configuration name="C:/Users/adibi/Desktop/nayna/projectEbay/ebayTest/src/test/resources/Ebaytestrunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_adibi_Desktop_nayna_projectEbay_ebayTest_src_test_resources_Ebaytestrunner_xml - 2019.01.02 at 07h 07m 22s.xml">
+      <configuration name="C:/Users/adibi/Desktop/nayna/projectEbay/ebayTest/src/test/resources/Ebaytestrunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_adibi_Desktop_nayna_projectEbay_ebayTest_src_test_resources_Ebaytestrunner_xml - 2019.01.02 at 07h 07m 28s.xml">
+      <configuration name="C:/Users/adibi/Desktop/nayna/projectEbay/ebayTest/src/test/resources/Ebaytestrunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_adibi_Desktop_nayna_projectEbay_ebayTest_src_test_resources_Ebaytestrunner_xml - 2019.01.02 at 16h 46m 00s.xml">
+      <configuration name="C:/Users/adibi/Desktop/nayna/projectEbay/ebayTest/src/test/resources/Ebaytestrunner.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2437247" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.13321492" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3285968" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Maven" order="2" sideWeight="0.4973545" weight="0.22753036" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Mongo Explorer" order="5" />
+      <window_info anchor="right" id="Coverage" order="6" sideWeight="0.5026455" side_tool="true" weight="0.32955465" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.24939272" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2437247" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.13321492" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3285968" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Maven" order="2" sideWeight="0.4973545" visible="true" weight="0.22753036" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Mongo Explorer" order="5" />
+      <window_info anchor="right" id="Coverage" order="6" sideWeight="0.5026455" side_tool="true" weight="0.32955465" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.24939272" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ebayTest/src/test/java/TestEbay.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ebayTest/src/test/resources/ebayTestRunner" />
+    <entry file="file://$PROJECT_DIR$/ebayTest/src/test/resources/Ebaytestrunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebayTest/src/test/java/TestEbay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebayMethods/src/main/java/base/RootEbay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1157#1158#0" expanded="true" />
+            <element signature="e#1220#1221#0" expanded="true" />
+            <element signature="e#1270#1271#0" expanded="true" />
+            <element signature="e#1332#1333#0" expanded="true" />
+            <element signature="e#1385#1386#0" expanded="true" />
+            <element signature="e#1446#1447#0" expanded="true" />
+            <element signature="e#1491#1492#0" expanded="true" />
+            <element signature="e#1549#1550#0" expanded="true" />
+            <element signature="e#2344#2345#0" expanded="true" />
+            <element signature="e#2384#2385#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebayTest/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="58" column="12" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebayTest/src/main/java/search/SearchEbay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ebayMethods/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.608046" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39655173" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>projectEbay</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39655173" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>sdk-1.0.snapshot</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39655173" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
